@@ -33,7 +33,13 @@ Atualmente, estou focada em:
 - Sempre explorando novas tecnologias e aprimorando habilidades. ⚡  
 
 ## 📫 Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-carvalho-aab2081b2/)
-[![GitHub](https://img.shields.io/badge/-GitHub-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanaaacs)
+<div align="center">
+  <a href="(https://www.linkedin.com/in/geovana-carvalho-aab2081b2" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/geovanaaacs" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/-GitHub-pink?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ✨ _“Sempre aprendendo, sempre evoluindo.”_ ✨
