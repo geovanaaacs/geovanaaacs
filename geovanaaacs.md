@@ -34,6 +34,6 @@ Atualmente, estou focada em:
 
 ## 📫 Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-carvalho-aab2081b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/-GitHub-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geovanaaacs)
 
 ✨ _“Sempre aprendendo, sempre evoluindo.”_ ✨
