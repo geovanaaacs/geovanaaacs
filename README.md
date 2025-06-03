@@ -34,7 +34,7 @@ Atualmente, estou focada em:
 
 ## 📫 Conecte-se comigo!
 <div align="center">
-  <a href="(https://www.linkedin.com/in/geovana-carvalho-aab2081b2" style="margin: 10px;">
+  <a href="https://www.linkedin.com/in/geovana-carvalho-aab2081b2" style="margin: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/geovanaaacs" style="margin: 10px;">
